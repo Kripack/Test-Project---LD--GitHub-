@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>b766d08851589514b97afb23c6f30a70</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4934865+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModuleAudio</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e944529dcaee98f4e9498d80e541d93e</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4944868+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dae9aa560b4242648a3affa2bfabc365</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4944868+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModulePhysics</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>230fe34542e175245ba74b4659dae700</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4954869+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>188918ab119d93148aa0de59ccf5286b</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4954869+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModuleSprite</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a060394c03331a64392db53a10e7f2d1</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4964872+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModuleUI</string>
+      <string>DG.Tweening.DOTweenModuleUI+Utils</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63c02322328255542995bd02b47b0457</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4964872+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModuleUnityVersion</string>
+      <string>DG.Tweening.DOTweenCYInstruction</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForCompletion</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForRewind</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForKill</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForElapsedLoops</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForPosition</string>
+      <string>DG.Tweening.DOTweenCYInstruction+WaitForStart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bcaf917d9cf5b84090421a5a2abe42e</guid>
+    <fileName>Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.4974886+03:00</timeStamp>
+    <typeFullName>
+      <string>DG.Tweening.DOTweenModuleUtils</string>
+      <string>DG.Tweening.DOTweenModuleUtils+Physics</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5bdd4db2bfe1ac345a89581dffaedf51</guid>
+    <fileName>Assets/ART_Ball_Move.cs</fileName>
+    <timeStamp>2023-07-29T10:33:27.1136279+03:00</timeStamp>
+    <typeFullName>
+      <string>ART_Ball_Move</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a339d9465ffa37d4ea05b2327ed4c2c3</guid>
+    <fileName>Assets/Catapult_Launcher.cs</fileName>
+    <timeStamp>2023-09-06T13:01:58.4235411+03:00</timeStamp>
+    <typeFullName>
+      <string>Catapult_Launcher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4792b8503b80fd74bacaf70fcc29f5a6</guid>
+    <fileName>Assets/Coin_Spin.cs</fileName>
+    <timeStamp>2023-09-11T10:12:09.1167974+03:00</timeStamp>
+    <typeFullName>
+      <string>Coin_Spin</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6965675395d3a949885a26791096929</guid>
+    <fileName>Assets/Tutorial_Hand_Movement.cs</fileName>
+    <timeStamp>2023-09-11T22:58:10.1278966+03:00</timeStamp>
+    <typeFullName>
+      <string>Tutorial_Hand_Movement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>77c42ec6d2f25664db209c387bdc20b6</guid>
+    <fileName>Assets/Editor/CustomFont.cs</fileName>
+    <timeStamp>2023-09-04T23:15:45.6868894+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>579aca9ab91777344b94e6600b049375</guid>
+    <fileName>Assets/Editor/TextTo3d.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.4541673+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d7125a3c6b62634c81c33e64f8732f4</guid>
+    <fileName>Assets/Editor/TextTo3dEditorWindow.cs</fileName>
+    <timeStamp>2023-09-04T23:15:45.6878896+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6394c81cdc3fc6a488737413de444d8a</guid>
+    <fileName>Assets/Imported Assets/RandomizerWindow.cs</fileName>
+    <timeStamp>2023-01-19T11:49:44.0632881+02:00</timeStamp>
+    <typeFullName>
+      <string>RandomizerWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>927375d72f7e15544ae1411e4bf1957b</guid>
+    <fileName>Assets/Scripts/AirTrigger.cs</fileName>
+    <timeStamp>2023-09-13T18:49:07.4628483+03:00</timeStamp>
+    <typeFullName>
+      <string>AirTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a18304e90bd68024abae9d697486e404</guid>
+    <fileName>Assets/Scripts/BoingAngleReader.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5605542+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingAngleReader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9a3a10bfd9e8294bab63e7da9babd3f</guid>
+    <fileName>Assets/Scripts/CollectionObject.cs</fileName>
+    <timeStamp>2023-09-17T10:59:38.5917644+03:00</timeStamp>
+    <typeFullName>
+      <string>CollectionObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5c51087c3468f546bddba645713fbcb</guid>
+    <fileName>Assets/Scripts/CustomColor.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.5371854+03:00</timeStamp>
+    <typeFullName>
+      <string>CustomColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80ad4ff1df6ad12428eb67b9ab893ee3</guid>
+    <fileName>Assets/Scripts/DestroyObject.cs</fileName>
+    <timeStamp>2023-09-21T16:51:39.9360125+03:00</timeStamp>
+    <typeFullName>
+      <string>DestroyObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5fbc7fa7ab320843978032d7b05b7ca</guid>
+    <fileName>Assets/Scripts/EffectButton.cs</fileName>
+    <timeStamp>2023-09-18T19:26:24.206113+03:00</timeStamp>
+    <typeFullName>
+      <string>EffectButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d1820d0df36c924e9081513ea69e2dc</guid>
+    <fileName>Assets/Scripts/FallingObject.cs</fileName>
+    <timeStamp>2023-10-02T20:37:41.1934222+03:00</timeStamp>
+    <typeFullName>
+      <string>FallingObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80c6cdee638846f42bca2b77ec8e2e26</guid>
+    <fileName>Assets/Scripts/FlagColorController.cs</fileName>
+    <timeStamp>2023-09-06T13:01:54.0210399+03:00</timeStamp>
+    <typeFullName>
+      <string>FlagColorController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e501094d5f5c90345b7aeccc2b897654</guid>
+    <fileName>Assets/Scripts/FlagColorObject.cs</fileName>
+    <timeStamp>2023-09-21T16:51:39.9370123+03:00</timeStamp>
+    <typeFullName>
+      <string>FlagColorObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16b907d75c03b114aac9819a0a27242c</guid>
+    <fileName>Assets/Scripts/GPUInstance.cs</fileName>
+    <timeStamp>2023-09-28T09:38:16.8677381+03:00</timeStamp>
+    <typeFullName>
+      <string>GPUInstance</string>
+      <string>GPUInstance+OperStart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f008bd1c4520240439005385603b75ac</guid>
+    <fileName>Assets/Scripts/HPObject.cs</fileName>
+    <timeStamp>2023-09-28T12:42:32.3924021+03:00</timeStamp>
+    <typeFullName>
+      <string>HPObject</string>
+      <string>HPObject+ObjectType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27b2547f93bb842418bece62bbea4e8d</guid>
+    <fileName>Assets/Scripts/MoveObject.cs</fileName>
+    <timeStamp>2023-09-30T10:11:05.5136892+03:00</timeStamp>
+    <typeFullName>
+      <string>MoveObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3a59d268841ec549a0dd2c0898ea48c</guid>
+    <fileName>Assets/Scripts/ObjsLoader.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2796779+03:00</timeStamp>
+    <typeFullName>
+      <string>ObjsLoader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eceeda4864aa4de44990b207ec2e359b</guid>
+    <fileName>Assets/Scripts/ObjsSaver.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2796779+03:00</timeStamp>
+    <typeFullName>
+      <string>ObjsSaver</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a249ee197e24ec449b18311d2eb8f4b0</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2023-10-13T21:03:46.5069002+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5eefcb5d9fdecb745bcdab74c86d0bc3</guid>
+    <fileName>Assets/Scripts/PlayerPowerEnemys.cs</fileName>
+    <timeStamp>2023-09-23T09:55:34.7442342+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerPowerEnemys</string>
+      <string>PlayerPowerEnemys+PlayerLayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96126f2144c93bc4aadc3d916f3c17e3</guid>
+    <fileName>Assets/Scripts/RoadIdentificator.cs</fileName>
+    <timeStamp>2023-08-26T11:23:39.6876198+03:00</timeStamp>
+    <typeFullName>
+      <string>RoadIdentificator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96e84a3b8e8f40941975d1f85254d90d</guid>
+    <fileName>Assets/Scripts/RoadPlacer.cs</fileName>
+    <timeStamp>2023-10-01T18:14:39.6344427+03:00</timeStamp>
+    <typeFullName>
+      <string>RoadPlacer</string>
+      <string>RoadPlacer+PlaceType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2e328822ce709b645b9a6fc19ee72935</guid>
+    <fileName>Assets/Scripts/SoundCall.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.538186+03:00</timeStamp>
+    <typeFullName>
+      <string>SoundCall</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b35eab44ef716248b38965e24920c60</guid>
+    <fileName>Assets/Scripts/SoundController.cs</fileName>
+    <timeStamp>2023-09-28T09:38:16.8776481+03:00</timeStamp>
+    <typeFullName>
+      <string>SoundController</string>
+      <string>SoundController+SoundIds</string>
+      <string>SoundController+SoundItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>065af1524510b3d4d8983a7deada24a7</guid>
+    <fileName>Assets/Scripts/StartEvent.cs</fileName>
+    <timeStamp>2023-08-26T11:23:39.6876198+03:00</timeStamp>
+    <typeFullName>
+      <string>StartEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>961eec76dd62a5e45aebf1c338032053</guid>
+    <fileName>Assets/Scripts/UITextEffect.cs</fileName>
+    <timeStamp>2023-10-28T21:56:16.5382763+03:00</timeStamp>
+    <typeFullName>
+      <string>UITextEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d10b3909912a6a5408c97ef5278ddeb8</guid>
+    <fileName>Assets/Scripts/Vibration.cs</fileName>
+    <timeStamp>2023-10-04T16:57:38.4704948+03:00</timeStamp>
+    <typeFullName>
+      <string>Vibration</string>
+      <string>Vibration+VibroType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cfc17dfa879ecf1458c2c60f8b0e70bb</guid>
+    <fileName>Assets/Scripts/VibrationEvent.cs</fileName>
+    <timeStamp>2023-09-29T10:25:51.5164434+03:00</timeStamp>
+    <typeFullName>
+      <string>VibrationEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3575bb40ce2c33c4dba98000358d38c4</guid>
+    <fileName>Assets/Scripts/GamePreset/AnaliticsController.cs</fileName>
+    <timeStamp>2023-09-28T12:42:32.3904021+03:00</timeStamp>
+    <typeFullName>
+      <string>AnaliticsController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a95e178b4a9f3934f8ed6412c547401a</guid>
+    <fileName>Assets/Scripts/GamePreset/CustomToggle.cs</fileName>
+    <timeStamp>2023-05-11T12:54:00.2976241+03:00</timeStamp>
+    <typeFullName>
+      <string>CustomToggle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>81d48f276ea4e9047b7db0ebf01106fc</guid>
+    <fileName>Assets/Scripts/GamePreset/DebugSceneLoad.cs</fileName>
+    <timeStamp>2023-09-29T10:25:51.5154433+03:00</timeStamp>
+    <typeFullName>
+      <string>DebugSceneLoad</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1c1b8bb673871c45b6d6bee3fe7cc4d</guid>
+    <fileName>Assets/Scripts/GamePreset/GameVersion.cs</fileName>
+    <timeStamp>2023-07-16T21:19:30.6698771+03:00</timeStamp>
+    <typeFullName>
+      <string>GameVersion</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>817b634061f5eb144b11c71947bd668f</guid>
+    <fileName>Assets/Scripts/GamePreset/GeneralSettings.cs</fileName>
+    <timeStamp>2023-10-12T08:41:50.7193934+03:00</timeStamp>
+    <typeFullName>
+      <string>GeneralSettings</string>
+      <string>GeneralSettings+ExampleData</string>
+      <string>GeneralSettings+SettingsData</string>
+      <string>GeneralSettings+UIData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bfc814c377fcdf0419c54402342656e4</guid>
+    <fileName>Assets/Scripts/GamePreset/OnMouseEvent.cs</fileName>
+    <timeStamp>2023-05-11T12:54:00.2996246+03:00</timeStamp>
+    <typeFullName>
+      <string>OnMouseEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d3d5b7d4211b9b45a034154f871d6d9</guid>
+    <fileName>Assets/Scripts/GamePreset/SafeArea.cs</fileName>
+    <timeStamp>2023-05-11T12:54:00.2996246+03:00</timeStamp>
+    <typeFullName>
+      <string>Crystal.SafeArea</string>
+      <string>Crystal.SafeArea+SimDevice</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99b219a267104f14981b98a0258dd217</guid>
+    <fileName>Assets/Scripts/GamePreset/ScenesRoll.cs</fileName>
+    <timeStamp>2023-10-12T08:41:50.7203937+03:00</timeStamp>
+    <typeFullName>
+      <string>ScenesRoll</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1d6c94a9d2063e4c9b7d8ccfc630325</guid>
+    <fileName>Assets/Scripts/GamePreset/TriggerEvent.cs</fileName>
+    <timeStamp>2023-09-30T10:11:05.5126887+03:00</timeStamp>
+    <typeFullName>
+      <string>TriggerEvent</string>
+      <string>TriggerEvent+ObjectDoing</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adcd92e5c8e6c4e41855abb3de092efe</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Editor/BoingKitStandardShaderGUI.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.1834129+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1da3c859867ae3a438890fcd704a5e7e</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingBase.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4985403+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingBase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa3bbabd5a70fb446a68c0af5a71d58f</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingBehavior.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4985403+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingBehavior</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f86750809ef2bda40ac2e7c112685f8c</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingBoneCollider.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4995406+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingBoneCollider</string>
+      <string>BoingKit.BoingBoneCollider+Type</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2880a4508a3ffde40b68c339503404a1</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingBones.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4995406+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingBones</string>
+      <string>BoingKit.BoingBones+Bone</string>
+      <string>BoingKit.BoingBones+Chain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>574bea172f914264aa51ad3bc4c8e6de</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingEffector.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.500541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingEffector</string>
+      <string>BoingKit.BoingEffector+Params</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f268f65c0cf77844a0cd6a8c52a19b0</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingKit.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.500541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingKit</string>
+      <string>BoingKit.Version</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c18dcadae85c0c47b2f78dcb527878c</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingManager.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.500541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingManager</string>
+      <string>BoingKit.BoingManager+UpdateMode</string>
+      <string>BoingKit.BoingManager+TranslationLockSpace</string>
+      <string>BoingKit.BoingManager+BehaviorRegisterDelegate</string>
+      <string>BoingKit.BoingManager+BehaviorUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+EffectorRegisterDelegate</string>
+      <string>BoingKit.BoingManager+EffectorUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorRegisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldRegisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldCPUSamplerRegisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldCPUSamplerUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldGPUSamplerRegisterDelegate</string>
+      <string>BoingKit.BoingManager+ReactorFieldGPUSamplerUnregisterDelegate</string>
+      <string>BoingKit.BoingManager+BonesRegisterDelegate</string>
+      <string>BoingKit.BoingManager+BonesUnregisterDelegate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc191dc182971b246972c7b6a6a61bb9</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingManagerPostUpdatePump.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.501541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingManagerPostUpdatePump</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcbb3d0aa4888984a9826e48b16b8025</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingManagerPreUpdatePump.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.501541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingManagerPreUpdatePump</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85e82bb10cbb1a2469de0aa98fb7c381</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingReactor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.501541+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingReactor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c33f7a9401019f14592d086f1680e906</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingReactorField.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5025412+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingReactorField</string>
+      <string>BoingKit.BoingReactorField+HardwareModeEnum</string>
+      <string>BoingKit.BoingReactorField+CellMoveModeEnum</string>
+      <string>BoingKit.BoingReactorField+FalloffModeEnum</string>
+      <string>BoingKit.BoingReactorField+FalloffDimensionsEnum</string>
+      <string>BoingKit.BoingReactorField+ShaderPropertyIdSet</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5ff4ad6c651b034eaf7b0a4163df6d3</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingReactorFieldCPUSampler.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5025412+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingReactorFieldCPUSampler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d78c28572d2f30d4d9cd4a91184e9f1c</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingReactorFieldGPUSampler.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5035415+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingReactorFieldGPUSampler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7328f9f3615c9954d917847cc2ccbbb3</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingWork.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5035415+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingWork</string>
+      <string>BoingKit.BoingWork+EffectorFlags</string>
+      <string>BoingKit.BoingWork+ReactorFlags</string>
+      <string>BoingKit.BoingWork+Params</string>
+      <string>BoingKit.BoingWork+Output</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9606b89ba0b8aaf42b6adae967c66f34</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingWorkAsynchronous.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5035415+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingWorkAsynchronous</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f1d2358730cd014a99855a086e1c710</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/BoingWorkSynchronous.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5045417+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.BoingWorkSynchronous</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5e94ddc1e6ce194690f17a8247e0798</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Codec.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5045417+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.Codec</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88a6b938a7dea9f4699e70650d31e3c4</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/SharedBoingParams.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5085427+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.SharedBoingParams</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc79a2540d574734897f2dcf74ecdffb</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Types.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5085427+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.ParameterMode</string>
+      <string>BoingKit.TwoDPlaneEnum</string>
+      <string>BoingKit.Aabb</string>
+      <string>BoingKit.Bits32</string>
+      <string>BoingKit.BitArray</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08cb8ab4ed87d60439f82d715b16a0af</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/HierarchyEditor.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6672511+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e784e5dab34294449a18bdedb9ecafe</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/HierarchyFolderEditor.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6672511+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69af6b3b1c5f59247bb9c330c0823d71</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/HierarchyResources.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.668252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b7bbe92ee6f2f74ab6bb3656648fd63</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/HierarchySettings.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6692521+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4491b327f03d38443b1b5c3f6fad3329</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/InstantInspector.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6692521+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a142028896e06434b8d63f0c31948dec</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/SceneRenamePopup.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6702517+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d6dd7e0c736b084dae6f67d6f7f733e</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Editor/SelectionsRenamePopup.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6702517+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b0f7103e5aae6a48b28d0e1dd07ad07</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Runtime/HierarchyFolder.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.672252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d494eb5399fa0ab48a22baaf16f73661</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Runtime/Texture2DExtensions.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.672252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07fa4e2d31e2e3747bf611e244cde4b6</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Runtime/UIElements.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6732523+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4507fa051b982c14fbad087a44b2da52</guid>
+    <fileName>Assets/Imported Assets/Hierarchy 2/Runtime/VisualElementExstensions.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6732523+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2ae2996f91d32944a854e57dfc5a7ff</guid>
+    <fileName>Assets/Imported Assets/MeshCombiner/Editor/MeshCombinerEditor.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.4551675+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24fb3eb29eeebd04d87475bbfb984a31</guid>
+    <fileName>Assets/Imported Assets/MeshCombiner/Scripts/MeshCombiner.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.4561673+03:00</timeStamp>
+    <typeFullName>
+      <string>MeshCombiner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e56ee0315133e004e8ef0f70106090ef</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/CallbackOptionsPropertyDrawer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5141741+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69f5d525b9339e54d97390fa221d2097</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/FractureEditor.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5146873+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b13c64051dd526c4f8906d68712e987b</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/PrefractureEditor.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5156784+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d08b34658d6e1ea4d83a8079e48bb270</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/PrefractureOptionsPropertyDrawer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5156784+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d99dbaf6b5735b4c9af0896040ac65b</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/RefractureOptionsPropertyDrawer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5166788+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f692bceb73d91e24681b607ab09f2ee6</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/SliceEditor.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5166788+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e2055e9f36d75c4e9cf52e3380fa95b</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/TriggerOptionsPropertyDrawer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5166788+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>acbae3f2ee815e34c8322878fe2df558</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Editor/UnfreezeFragmentEditor.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5166788+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7afc38c2d1fc5794db8af8261ba5f3b1</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/OutlineObjectFeature.cs</fileName>
+    <timeStamp>2023-07-24T12:48:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f1fb07553a2a8d74ea19800d1bddfc25</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/SpherizeNormalCenterObject.cs</fileName>
+    <timeStamp>2023-07-24T12:49:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fea29bb7c508c244a1f805a5fd3fc4d</guid>
+    <fileName>Assets/Imported Assets/QuickOutline/Scripts/Outline.cs</fileName>
+    <timeStamp>2022-03-07T14:32:12+02:00</timeStamp>
+    <typeFullName>
+      <string>Outline</string>
+      <string>Outline+Mode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e0100a1493a3224e85b40a0a15a2d5f</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c48683288cddbb74a81d19eea4490e3a</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d70bfa1ea1525c44fb67de03266e73b5</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1aac4f0e126f634a8dda94d6839c6c3</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5080ba3ef2b5dc245b8b8d3bc717fdd4</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eeb8e79b8a15bc24aa9e221c7a57c0b2</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15e010d0c3e4755449b49acab389fa34</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/BoingBehaviorEditor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5055419+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>854fdef339bf67e4a84d52947eae3278</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/BoingBonesEditor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5055419+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0086518d2503024438ead1baeaf13207</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/BoingEditorBase.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5055419+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78516eb28ae85f043b0db5199728d823</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/BoingReactorEditor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5065421+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>611e64c346306544eafbfc6cbf62dcfa</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/BoingReactorFieldEditor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5065421+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2023a817130f964ead2d7550d39f2c8</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Editor/SharedBoingParamsEditor.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5075423+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>edef0f2897de5474ba1db3451b2ff37d</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/Collision.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5095429+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.Collision</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31a1a2a6d87de9b4d9666a937488b709</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/ConditionalFieldAttribute.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5095429+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.ConditionalFieldAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9a835f9aa5d9f44ea5a511b88fbd9f0</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/ConditionalFieldAttributeDrawer.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.510543+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.ConditionalFieldAttributeDrawer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98871807e4374404fb03c122297b045c</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/MathUtil.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.510543+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.MathUtil</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4370618f05a97474ab9e1cca519d53b5</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/QuaternionUtil.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.510543+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.QuaternionUtil</string>
+      <string>BoingKit.QuaternionUtil+SterpMode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce2c756e062966043977b9e7a501c42f</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/SpringTracker.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5115432+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.FloatSpring</string>
+      <string>BoingKit.Vector2Spring</string>
+      <string>BoingKit.Vector3Spring</string>
+      <string>BoingKit.Vector4Spring</string>
+      <string>BoingKit.QuaternionSpring</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4cdd40385e394ff45bbac6959fb6bf09</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Script/Util/VectorUtil.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.5115432+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.VectorUtil</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c3a9dc0c96663c43b89916d34c8b8ea</guid>
+    <fileName>Assets/Imported Assets/Hit Impact Effects/Demo Scene/Scripts/HitImpactEffectsPreview.cs</fileName>
+    <timeStamp>2022-04-23T04:02:54+03:00</timeStamp>
+    <typeFullName>
+      <string>TravisGameAssets.HitImpactEffectsPreview</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edda855906d15e541b46efd812fd70f3</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/INaughtyAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6912562+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1b9b53879f7c93b42835c3ad9e0d0a66</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/NaughtyInspector.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7012586+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9bff20ccdde00fc49a62bad6a4ef9982</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/AnimatorParamTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7142616+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3920f5ea384951b4990e4d9e8032d12e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/BoxGroupTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7152617+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b592f12a9f69ac3408f6f870762232c7</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ButtonTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7152617+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6587b100d001e7e46b9aaae7f1180b40</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/CurveRangeTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7152617+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e48a088cb96287448c3be58932bfcb7</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/DisableIfTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7162619+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3855e37cd6b01194e8166573c7c4b37d</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/DropdownTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7162619+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bed506d8be3a10f45bec4bf2237bec87</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/EnableIfTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7172621+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b7f6b84ce0d7674d8a386fde729279c</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/EnumFlagsTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7172621+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64c4c9aee2b494d44be9bb0b7f12ed7c</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ExpandableTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7172621+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b437215d92efa74ea85ff726ca0dd09</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/FoldoutTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7172621+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3cf166cb519e666419bb79b0c50c5ee1</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/HideIfTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7182633+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5cc6d3f8d4a53374887b3d620a6972e3</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/HorizontalLineTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7182633+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0dcb08e489c17644e9eacaa1ec5fe781</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/InfoBoxTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7182633+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0cc8a31c22090847b75538c0ed2d2fc</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/InputAxisTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7192626+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7488af014527ebf42af5c4fc4d5f4f5b</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/LabelTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7192626+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>460459d6ac76acd4d872f94cf444e6fa</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/LayerTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7202629+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd67fbde6acdd6a44944f12e507067c5</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/MinMaxSliderTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7202629+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>450a05787c54e6b4fa88ffe223bcee87</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/MinMaxValueTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7202629+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff1df679e5b32f64bb106752c63933fa</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/OnValueChangedTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7212632+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96ca4c27fc649764b9d1625f1740cb9e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ProgressBarTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7212632+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5443d37a05e188846bda9b05b067184e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ReadOnlyTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7222642+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c93fde7cd79390148ac576c3a159a77b</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ReorderableListTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7222642+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9c8c10b2234650d42b2a8efad6b413db</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/RequiredTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7222642+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb4f4bb2e3e063340a24f4bb24528bb5</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ResizableTextAreaTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7232643+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>281a85803caf74a459439020a0840fa4</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/SceneTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7232643+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>705c14aa9ecaa274289972381f471367</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ShowAssetPreviewTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7232643+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4fdbfcfbf5b056a4bac491fe21569572</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ShowIfTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7242639+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5a73795d25dd334e90a5a347c6079d9</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ShowNativePropertyTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7242639+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>913d67a695253f744bdc776625b9b948</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ShowNonSerializedFieldTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7252639+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ed73e666d447964d93c4840f05423dc</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/SortingLayerTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7252639+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8bcc0d5613b48fb43bd36c9d37e99900</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/TagTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7252639+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94adafcfe59aa344c9b5596b2cc6ecd0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/ValidateInputTest.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7262642+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9c928ea15ae74a44089beb2e534c1a35</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/_NaughtyComponent.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7262642+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>753bdb918c6038142acddbd7aae6958f</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/_NaughtyScriptableObject.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7272644+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19472ac11eae27a4b804f354ca7d9c00</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectA.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7272644+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2b396aeebc9d984da298eee313896bc</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Test/_TestScriptableObjectB.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7272644+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5e73676de2ac994b9125bb8ceb9c07d</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/LiteFPSCounter/Scripts/LiteFPSCounter.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2716761+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.LiteFPSCounter.LiteFPSCounter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a037ed3b25d886c4eaf84869106ff6b0</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/AssemblyInfo.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5436849+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91fc9178a0b0c3d4bb8b6d91b16d9893</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fracture.cs</fileName>
+    <timeStamp>2023-09-30T10:11:05.4636741+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>605444303d16d4544bb76342ce272af3</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Prefracture.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5506866+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc1ac885d6b125f44935bf90b4e492a8</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Slice.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5516866+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4765fbb4b7c91f4f8a32eef007d3887</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/BinSortTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7022248+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>59dcbbc1aaeeb8c4cb1c2830e8dc5231</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/ConstrainedTriangulatorTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7032249+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0cab166f639a71a49a926c8c9bd116c0</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/EdgeTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7032249+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a2a8735b44707e84d97a6f0e76764430</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/MathUtilsTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7032249+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77e1a609db0f2454ba3f7188e6bcfa0e</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/MeshVertexTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.704225+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6baf3751b104d85409c5de8cf8f21b04</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/QuadTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.704225+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6dd1fd6416560a4b9d99747bdefa187</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/SlicedMeshDataTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7052252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4991ec602140c2429ceb10f5f27138a</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/TriangulationPointTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7052252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90aa675abf691f247a4299a3a4defa44</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/TriangulatorTests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7052252+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a4c4528d3ed5484498a65a7404ed9839</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Tests/Runtime/Vector3Tests.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.7062259+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0af1fd4b21f63648ace067f5bc3f3d7</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/CameraController.cs</fileName>
+    <timeStamp>2023-07-24T12:49:42+03:00</timeStamp>
+    <typeFullName>
+      <string>OToon.CameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e56a00a9a690f5841b960420114b387c</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/DitherByCameraDistance.cs</fileName>
+    <timeStamp>2023-07-24T12:49:46+03:00</timeStamp>
+    <typeFullName>
+      <string>DitherByCameraDistance</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6894fa621c3295e43901189004ef1108</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/PingPongMove.cs</fileName>
+    <timeStamp>2023-07-24T12:48:19+03:00</timeStamp>
+    <typeFullName>
+      <string>PingPongMove</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db8cb1f9478666c4d9af08eca6294f05</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/Rotator.cs</fileName>
+    <timeStamp>2023-07-24T12:49:38+03:00</timeStamp>
+    <typeFullName>
+      <string>OToon.Rotator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b35f42f1d5c678748b575743512103f0</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/SceneHintController.cs</fileName>
+    <timeStamp>2023-07-24T12:49:13+03:00</timeStamp>
+    <typeFullName>
+      <string>OToon.SceneHintController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c359f0cf48cddf428d98f2f04c8172c</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scripts/ShowcaseDemoController.cs</fileName>
+    <timeStamp>2023-07-24T12:47:46+03:00</timeStamp>
+    <typeFullName>
+      <string>OToon.ShowcaseDemoController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d1a93c28ac8499445a1b69887608f317</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/AssetSingleton.cs</fileName>
+    <timeStamp>2023-07-24T12:49:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b4f9317813976047bf3b1196b7b8054</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/EditorGUIhelper.cs</fileName>
+    <timeStamp>2023-08-27T13:49:37.7189564+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83fe7c3734bd1c64a8868484f0e7198b</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/GradientExDrawer.cs</fileName>
+    <timeStamp>2023-07-24T12:48:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c31e4425360d94a40ad2421c22097d5f</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/GradientSettingsManager.cs</fileName>
+    <timeStamp>2023-07-24T12:49:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4b8e48fc6f04df429e688807aad0daa</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/GradientSettingsManagerEditor.cs</fileName>
+    <timeStamp>2023-07-24T12:49:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a51acd333b7c6a546a3c8b1db9e94df4</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/LegacyGradientDataTransferWizard.cs</fileName>
+    <timeStamp>2023-07-24T12:49:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58015f7b392f06b45a7ddaccc4ab968c</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/MinMaxDrawer.cs</fileName>
+    <timeStamp>2023-07-24T12:48:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f76ef6cf11191fe4689ff28bbab3185b</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/OtoonCustomLitShader.cs</fileName>
+    <timeStamp>2023-08-27T13:49:37.7199565+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9e54a42ec8d18e64d95e478333d89c23</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/OtoonLitShader.cs</fileName>
+    <timeStamp>2023-08-27T13:49:37.7219574+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0bcc8c64cc166514ebda2319e3fb780f</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/OtoonShaderGraph.cs</fileName>
+    <timeStamp>2023-08-27T13:49:37.7199565+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2da76b2b110d5044be9b3b4983a051e</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/OtoonTooltip.cs</fileName>
+    <timeStamp>2023-07-24T12:49:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc201d6a2a330684ca1904ddb9efd474</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/OtoonUpdateHelper.cs</fileName>
+    <timeStamp>2023-07-24T12:49:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67067d732e813514e84402d2bbb44900</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/SavedParameter.cs</fileName>
+    <timeStamp>2023-07-24T12:48:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b4d725740f38354e8312da92c654928</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/SplitDrawer.cs</fileName>
+    <timeStamp>2023-07-24T12:47:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ffacf7f7e309b484ea73711b358aaec2</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/StandardBaseShaderGUI.cs</fileName>
+    <timeStamp>2023-07-24T12:50:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d9f7ab9c118b394a8801e40b4d5388b</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/ToggleExDrawer.cs</fileName>
+    <timeStamp>2023-07-24T12:47:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96cda11385a0ce942be2ca89e14e861f</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Shaders/Editor/URPSetupHelper.cs</fileName>
+    <timeStamp>2023-08-27T13:49:37.7189564+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45d81a20743ff42a3b0dfbd499d4797e</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Editor/PathEditor.cs</fileName>
+    <timeStamp>2019-06-25T17:57:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f417e74782fffcd40b77b0fdbe82af04</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/GeneratePathExample.cs</fileName>
+    <timeStamp>2019-06-25T17:57:40+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.GeneratePathExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33aabe1a2dec93349b06e6e5dc51bc06</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/PathFollower.cs</fileName>
+    <timeStamp>2019-06-25T17:56:57+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathFollower</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d12b1fe1b42884d7692049d7f6f79ee9</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/PathPlacer.cs</fileName>
+    <timeStamp>2019-06-25T17:57:36+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathPlacer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83aca5399f4e71c44b5d6c1314b5b95f</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/PathSceneTool.cs</fileName>
+    <timeStamp>2019-06-25T17:57:09+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathSceneTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b617cc208d0104cad9534d503ff3e1cf</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/PathSpawner.cs</fileName>
+    <timeStamp>2019-06-25T17:57:28+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.PathSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b275c3b78f8717c4cbc60f74a3247f67</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/RoadMeshCreator.cs</fileName>
+    <timeStamp>2019-06-25T17:57:22+03:00</timeStamp>
+    <typeFullName>
+      <string>PathCreation.Examples.RoadMeshCreator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68993f626b9054143a02c557bc391619</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Behavior/Parented Object Stress Test/ParentedObjectStressTestMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2104191+03:00</timeStamp>
+    <typeFullName>
+      <string>ParentedObjectStressTestMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc0b27dcad1fa3445a4edd7574c37134</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/Jellyfish UFO Bunny/JellyfishUFOCamera.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2164204+03:00</timeStamp>
+    <typeFullName>
+      <string>JellyfishUFOCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a6ce2fced6ef4c439b072662ba2d6e1</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/Length Stiffness Comparison/LengthStiffnessComparison.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2204214+03:00</timeStamp>
+    <typeFullName>
+      <string>LengthStiffnessComparison</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0dc81f16dae373048b2ef098f7f7696a</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/Pose Stiffness Comparison/PoseStiffnessComparison.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2234219+03:00</timeStamp>
+    <typeFullName>
+      <string>PoseStiffnessComparison</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2572127fe49b4db49bfe9f98c2bb9a97</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/Squash &amp; Stretch Comparison/SquashAndStretchComparison.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2254225+03:00</timeStamp>
+    <typeFullName>
+      <string>SquashAndStretchComparison</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8dd3a6039b4d5d047aa80527e4aab908</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/UFO Bunny/ColliderSpinner.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.228423+03:00</timeStamp>
+    <typeFullName>
+      <string>ColliderSpinner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd5871426cd539a49ae9748a5c5206c4</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/UFO Bunny/UFOCamera.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2314236+03:00</timeStamp>
+    <typeFullName>
+      <string>UFOCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6c9095e832eb404390c45033002d523</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Bones/UFO Bunny/UFOEffector.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2314236+03:00</timeStamp>
+    <typeFullName>
+      <string>UFOEffector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a4e737df45e14e4c9add8f0c2a1520e</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Effector &amp; Reactor/Platformer Collectibles/CollectibleCoin.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2414259+03:00</timeStamp>
+    <typeFullName>
+      <string>CollectibleCoin</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f23dce277d82e4a4083c919574b1c70f</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Effector &amp; Reactor/Platformer Collectibles/PlatformerCollectiblesMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2424261+03:00</timeStamp>
+    <typeFullName>
+      <string>PlatformerCollectiblesMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc77de07286b0a9438f147971848ebd0</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Field Propagation/Implosion &amp; Explosion/ImplosionExplosionMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2544288+03:00</timeStamp>
+    <typeFullName>
+      <string>ImplosionExplosionMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9fba12773d641c45943577c09e6bb31</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Field Propagation/Implosion &amp; Explosion/OrbitCamera.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2544288+03:00</timeStamp>
+    <typeFullName>
+      <string>OrbitCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3dc9ef75ee5690745a11eaa9d0199a2e</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Field Propagation/Implosion &amp; Explosion/ScaleSpring.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2544288+03:00</timeStamp>
+    <typeFullName>
+      <string>ScaleSpring</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d1fd7d5fcf79dda4681c43bf7535a9e5</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Field Propagation/Liquid/LiquidMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2564293+03:00</timeStamp>
+    <typeFullName>
+      <string>LiquidMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d8a56f878484be4f89c50119f5dcd5d</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Boing Field Propagation/Wind/CurveBall.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2584296+03:00</timeStamp>
+    <typeFullName>
+      <string>CurveBall</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9af735fd693bc5344b6af26a2be1a514</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/BushFieldReactorFieldMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2824351+03:00</timeStamp>
+    <typeFullName>
+      <string>BushFieldReactorFieldMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b64d8232c7365b54ebf019df197cc002</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/BushFieldReactorMain.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2834353+03:00</timeStamp>
+    <typeFullName>
+      <string>BushFieldReactorMain</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ccc3aaa7f0bc5145a1ac48df2c93407</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/MousePositionDrag.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2834353+03:00</timeStamp>
+    <typeFullName>
+      <string>MousePositionDrag</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3cacb8596d457fe4ea50f742b0bea71a</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/MouseRotationDrag.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2834353+03:00</timeStamp>
+    <typeFullName>
+      <string>MouseRotationDrag</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c8403dacb799b9488fc50315fc5a17b</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/Oscillator.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2844356+03:00</timeStamp>
+    <typeFullName>
+      <string>Oscillator</string>
+      <string>Oscillator+WaveTypeEnum</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4d49146401cc3494695e4192753dac21</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/RotationStepper.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2844356+03:00</timeStamp>
+    <typeFullName>
+      <string>RotationStepper</string>
+      <string>RotationStepper+ModeEnum</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02bbe1bbc67365148ab971550e1fdda5</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/Spinner.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2844356+03:00</timeStamp>
+    <typeFullName>
+      <string>Spinner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0514df0bab8f4dc40a18a62a1f93786b</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/Script/WASD.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.2854358+03:00</timeStamp>
+    <typeFullName>
+      <string>WASD</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63988d96e99d3014dae411b95e953b0a</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/UFO Bunny/UFOController.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.3004391+03:00</timeStamp>
+    <typeFullName>
+      <string>BoingKit.UFOController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>95b49d3abe880c044adbe7faf6b7b4ec</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AllowNestingAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6832546+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7373332cb77b42744a415d6b4add445d</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/AnimatorParamAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6842548+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bbdf3fb8882c7514c9a01108122cda7e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/CurveRangeAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6842548+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9df37fdebccf65c4da5b0a14f6dad5f5</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DrawerAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.685255+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2cb864a1092cec04f8a4dbb556e8ed31</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/DropdownAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.685255+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8b31eb6d7299e54d89dcabc4cad0e6a</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/EnumFlagsAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.685255+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>60926d6ca7f9ced469e9248ff1192da6</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/Expandable.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.685255+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2fdd6f99acca2fd42a4f3162d585ce95</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/HorizontalLineAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6862553+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>afd1d6323740c734893fa8397c53113b</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InfoBoxAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6862553+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85033978c18810f46af271bbe94cf4aa</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/InputAxisAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6862553+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>668d19ebe071176448d1af816a9a0ce0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/LayerAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.687256+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4aaa73f574deaa54187cb54aae571b24</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/MinMaxSliderAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.687256+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e19e4db6f4d08f849aa8ea8155cd2760</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ProgressBarAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.687256+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>56d9a4b795ef4a94d86b94e55fb81240</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ResizableTextAreaAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6882556+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e054de18423364f4688b72a0f2a472b6</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SceneAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6882556+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b7dd9b44abc0054cb5cd68d74be2c1a</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/ShowAssetPreviewAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6882556+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7564ee02deb3974a85d8617eea098fb</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/SortingLayerAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6892559+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8903399bbd7c9d745a7b9188ab6c8320</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes/TagAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6892559+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8fe363a25ec5e24a9dd510bb0b4a0d4</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ButtonAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6902563+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6189b48f4055e6c47aa132632d898fa6</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ReorderableListAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6902563+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a8e9b7b71c94a1f459336a24cfe04b1b</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNativePropertyAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6902563+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ea09f60df536734184a8920ff8bda6f</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/ShowNonSerializedFieldAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6912562+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95a59093f8ed1af48a8be75fa3050a3c</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/DrawerAttributes_SpecialCase/SpecialCaseDrawerAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6912562+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07da8af1e3be52c4789678bf4138ae11</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/BoxGroupAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6922565+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52a0d5c249ac8fd42a4fb4d61bc2f797</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/DisableIfAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6922565+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a616ae826c8ebae45a89d6a8cb68a843</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6932568+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ba6385cd022e164b89ead1937173ddc</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/EnableIfAttributeBase.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6932568+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95f184555d5079243b2d25b35a641a74</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/FoldoutAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6932568+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ab2d0fcfb13a214ea6ef7629c96a761</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/HideIfAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6942571+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c437b9ac50575347a7b12520f37f9a2</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/IGroupAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6942571+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79e0e0c0a7c25ea4fbe8eecaa4d559a0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/LabelAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6942571+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a482b4e0fbf0f4547a5d522182a68d24</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/MetaAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6952574+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e16a27c5576022b4bbe997c7db9051f0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/OnValueChangedAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6952574+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e57264747ba93b94fbff12733de29499</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ReadOnlyAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6952574+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1ada427cfd2c9b04989d6d18dea27985</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6962575+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0532b1c4d8a9ccf4b9f98f0bbe4a6747</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/MetaAttributes/ShowIfAttributeBase.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6962575+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>059f8674a8065924ea9c678298b5cd63</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/Utility/EColor.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6972577+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c227b6c19fc67b46ad294d95818f85a</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/Utility/EConditionOperator.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6972577+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a748250af5ccfd7499cfb444aafb8a03</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MaxValueAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.698258+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40133bac7c8d42b4d837138430a503e0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/MinValueAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.698258+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0cdf49d1687849458b1a8d4786553d4</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/RequiredAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.698258+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c4171d68fb5bc0448d3ac298973e82c</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidateInputAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6992581+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f3c43bed2dbc5249b6c6ec7859c2020</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Core/ValidatorAttributes/ValidatorAttribute.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.6992581+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ec99f3a124f20e40b8f5edfeb1ecced</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/HorizontalLineDecoratorDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7002585+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9c18b0e698717442b7631c5066d667f</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/DecoratorDrawers/InfoBoxDecoratorDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7002585+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3175e7041b8f4348bd652485a78e7b1</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AllowNestingPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7022595+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98ff8cb1bcefae740a68d9a5c5ee3563</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/AnimatorParamPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7022595+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>798b8c99fbc072a4b83ee387e472a2bd</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/CurveRangePropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7032591+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd080b36769bcd94d909fc0431cf25e0</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/DropdownPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7032591+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b750e1461c1126d4399459b90b31e75e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/EnumFlagsPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7032591+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1ddb7194615bdc4e8b2088c8d165d8b</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ExpandablePropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7042592+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0de9d3dfe2d466a458be838edf361645</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/InputAxisPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7042592+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7278ba0893ab7d940b5f944e5b1cf1a7</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/LayerPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7052596+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27011af81554b5b4489b155f09275475</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/MinMaxSliderPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7052596+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0bcbc424b10864b4eb6e3bcfb276cdf9</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ProgressBarPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7062598+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>574f5fa6033f26342816a8a5f39749e5</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/PropertyDrawerBase.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7062598+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e27ffd9a96b58c46bb74cc93de3e06f</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ResizableTextAreaPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7062598+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7f5ed440d4f429e42a5da7bc5df48fd8</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ScenePropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7072599+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24dee3fc91cfe94438de1e3c158f187f</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/ShowAssetPreviewPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7072599+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0ed20ed34d732246a98cde96351fccb</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/SortingLayerPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7072599+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3df4c068c970ab6498df7a60efbde311</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers/TagPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7082602+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf36691a6d456564db2fcbfa8726b3f3</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/ReorderableListPropertyDrawer.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7092604+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>771776453ad34b045a41dea54856fa12</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyDrawers_SpecialCase/SpecialCasePropertyDrawerBase.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7092604+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>627b8e9e7bda6fa408c6f47fb8285665</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MaxValuePropertyValidator.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7102607+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03dd23f6c0598074fb1b721dcd8fe023</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/MinValuePropertyValidator.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7102607+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f332c8e1c3627d742aa9158af7b02ccc</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/PropertyValidatorBase.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.711261+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a7e657ea45f6414682b5f41be9541b4</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/RequiredPropertyValidator.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.711261+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f6adf84ed53a7840a456e8b4dce38d9</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/PropertyValidators/ValidateInputPropertyValidator.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7122611+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a273f81125ec52d4cb5dec2228afda0e</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/Utility/ButtonUtility.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7122611+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ff27ff7705d6064e935bb2159a1b453</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/Utility/NaughtyEditorGUI.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7132613+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>312eedcb79c7a5542b87c0b848e3e2fa</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/Utility/PropertyUtility.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7132613+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d86c581f02a55f458e36bf7e81e3084</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/Utility/ReflectionUtility.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7132613+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>18613afe66b0c0344a2be5f430bf965a</guid>
+    <fileName>Assets/Imported Assets/NaughtyAttributes/Scripts/Editor/Utility/SavedBool.cs</fileName>
+    <timeStamp>2023-07-28T11:48:56.7142616+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>817ab82d5a18de54988da6b011a2b22e</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/Common/Helper/GUI/ColorHelper.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2528549+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.Helper.ColorHelper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f58496bda0f611c49a50158dbbdecef4</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/Common/Helper/Reflection/CustomAttributes.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2538559+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.Helper.DisplayNameAttribute</string>
+      <string>OmniSARTechnologies.Helper.WhatsThisAttribute</string>
+      <string>OmniSARTechnologies.Helper.DocsAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ead098ef3d213be4dbb5b34651a9a1d2</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/Common/Helper/Transforms/TransformRotate.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2548926+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.Helper.TransformRotate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f4dc405f9892c0b4cbe41ce15a8fdc1e</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/LiteFPSCounter/Demo/Scripts/HeavyRenderingController.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2598562+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.LiteFPSCounter.Examples.HeavyRenderingController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d44d12ad28703d145a8e77243b81a15c</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/LiteFPSCounter/Demo/Scripts/SimpleSceneSwitcher.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2598562+03:00</timeStamp>
+    <typeFullName>
+      <string>OmniSARTechnologies.LiteFPSCounter.Examples.SimpleSceneSwitcher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>007c8be8ba25e9146bc247c69b676008</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/LiteFPSCounter/Editor/Scripts/LiteFPSCounterEditor.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2688585+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dae513e54953d9740a998fa1d26020b2</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/ConstrainedTriangulator.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.544685+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e465c2db3ee42004bb2588140d2c0275</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/EdgeConstraint.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.544685+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>744e2e7cedf47b848b91e43dbf53e383</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/FragmentData.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5456853+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7d041b547ef59d47846c5a02021d424</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/Fragmenter.cs</fileName>
+    <timeStamp>2023-09-27T11:02:01.0737254+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>838da7c4073cb5544a139058fcac2186</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/MeshSlicer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5466855+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92df5b8640ebfb243a19d317a09dec51</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/MeshVertex.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5466855+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1124001d561fa9e4dbaef234fcbb0d10</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/Quad.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5466855+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>db421ee84ac7f3246925361ae77699bf</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/TriangulationPoint.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5476859+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c8e611cd8a0ddf64a802581a422b9733</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/Triangulator.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5476859+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8db8defab3610854196e7e67bb44cc26</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Fragment/UnfreezeFragment.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5476859+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>348edbe3d0570a6419accc52b0e212bb</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/CallbackOptions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.548686+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a403b44a0def994f9876eb8ee5ec510</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/FractureOptions.cs</fileName>
+    <timeStamp>2023-09-25T20:24:33.459168+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1288923c231259a499e20568accf3230</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/PrefractureOptions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5496861+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16f54522207146b4080c2b883054c223</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/RefractureOptions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5496861+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b00168a0f92544f468d07cb7c6ae6491</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/SliceOptions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5506866+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23860b87355c53642bbc74c4577baacf</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Options/TriggerOptions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5506866+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d327cd6cfb3516d49ad96107a8b6d8ac</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Slicers/PlaneSlicer.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5516866+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dca2007b8cabd9747a798832c390aaba</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Support/CameraController.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5526869+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bad14770ea7af9e4baaa4dc184db69a3</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Support/Projectile.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5526869+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f4acb25588adc34a9d8453173077e89</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Support/ToggleText.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5526869+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4fe57792e36ffc489b628556d1dc576</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Support/UniqueMaterial.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5536864+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa6520366fb0c0d418e02cb5b731ad3a</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Utilities/BinSort.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5536864+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d37a4c4b4b021b4dafc4db72c4a6fc2</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Utilities/MathUtils.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5546868+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe28a9177c0175f479eb9155cc4aa3a4</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Utilities/MeshUtils.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5546868+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0cb4a40ec03ec24485fca5a7cd3ad16</guid>
+    <fileName>Assets/Imported Assets/OpenFracture/Runtime/Scripts/Utilities/Vector3Extensions.cs</fileName>
+    <timeStamp>2023-09-07T14:52:43.5546868+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5088c834627b31c4bbd25351b3332b09</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Plugins/SprintBone/SpringBone.cs</fileName>
+    <timeStamp>2023-07-24T12:48:02+03:00</timeStamp>
+    <typeFullName>
+      <string>SpringBone</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd0de63ca5c52504a8d2063418a326c3</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Editor/Helper/MouseUtility.cs</fileName>
+    <timeStamp>2019-06-25T17:57:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>804ddb43548540a4ca3b0a534a75c4b3</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Editor/Helper/PathHandle.cs</fileName>
+    <timeStamp>2019-06-25T17:57:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>05aed72a972059e45a62e31c2bb60fc4</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Editor/Helper/ScreenSpacePolyLine.cs</fileName>
+    <timeStamp>2019-06-25T17:56:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>756209f371f304fb1920c53a8a25a5e2</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/BezierPath.cs</fileName>
+    <timeStamp>2019-06-25T17:57:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0d7fa70c03166e4180909b6e5d546c7</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/EndOfPathInstruction.cs</fileName>
+    <timeStamp>2019-06-25T17:57:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46d5e8d803e252f4499b52e657f8e1a2</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/GlobalDisplaySettings.cs</fileName>
+    <timeStamp>2019-06-25T17:57:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>194e1b7893dcbf940a71eb507d8b10f3</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/MinMax3D.cs</fileName>
+    <timeStamp>2019-06-25T17:56:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e5ac92bc18f545cc84cd886ece82b4d</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/PathCreator.cs</fileName>
+    <timeStamp>2019-06-25T17:57:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19547029ffb83484e90d00c182104817</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/PathCreatorData.cs</fileName>
+    <timeStamp>2019-06-25T17:56:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>407af8f85a5bae449bce4730c5d97d1a</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/PathSpace.cs</fileName>
+    <timeStamp>2019-06-25T17:56:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>223183313f20d4049a397d83fab3151e</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Objects/VertexPath.cs</fileName>
+    <timeStamp>2019-06-25T17:56:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c66a6536bb2d641558729d6da1ec7594</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Utility/CubicBezierUtility.cs</fileName>
+    <timeStamp>2019-06-25T17:57:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>096bae1d1ed960d4bb7605dce06767c1</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Utility/MathUtility.cs</fileName>
+    <timeStamp>2019-06-25T17:56:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5505526f3c472e8499fa7ce169410ace</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Core/Runtime/Utility/VertexPathUtility.cs</fileName>
+    <timeStamp>2019-06-25T17:57:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>db8aedf6f6cf2734cb24c49646427e96</guid>
+    <fileName>Assets/Imported Assets/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs</fileName>
+    <timeStamp>2019-06-25T17:57:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a6149a22cf8a47a192a60b00b3becb3</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/UnityChan/Scripts/AutoBlink.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4965399+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityChan.AutoBlink</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>058a2736f2afd564eae55007a87eed87</guid>
+    <fileName>Assets/Imported Assets/Boing Kit/Examples/Common/UnityChan/Scripts/IdleChanger.cs</fileName>
+    <timeStamp>2023-08-31T17:35:19.4965399+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityChan.IdleChanger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>906f30a3f0171d64c8641bec8d0c40e5</guid>
+    <fileName>Assets/Imported Assets/OmniSARTechnologies/Common/Helper/Editor/GUI/EditorGUIHelper.cs</fileName>
+    <timeStamp>2023-07-29T10:33:25.2528549+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4843a08b044e0f5469c63b0c787fa4c4</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Plugins/SprintBone/Editor/SpringBoneEditor.cs</fileName>
+    <timeStamp>2023-07-24T12:47:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95d470bb10f5f4a4a9b1c55b05572027</guid>
+    <fileName>Assets/Imported Assets/OToon- URP Toon Shading/Demo(Can be delete)/Scenes/2 NPRStyles RobotKyle/Scripts/DemoController.cs</fileName>
+    <timeStamp>2023-07-24T12:48:55+03:00</timeStamp>
+    <typeFullName>
+      <string>DemoController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe3e97631d5a28548b8d92cc2e2a7fca</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90ef64e8591df4a499b9e0960fce90c3</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d17ddba053987244ba3c5cc0d64aa0b0</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1718944f2bdfded41a637d511f18694a</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d19c8ce86bcbdfe438cbcd19ff8844eb</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f97ee9131388d2b45a3576a683fa309e</guid>
+    <fileName>Assets/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T05:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
